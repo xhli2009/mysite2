@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Feb 22 16:50:33 2024
+
+@author: admin
+"""
+
+li a {
+color: red;
+}
+body{
+    background: white url("images/background.jpg") no-repeat;
+}
